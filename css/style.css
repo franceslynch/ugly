@@ -1,0 +1,32 @@
+body{
+  /*This rule formats your entire page. You can add background colors, fonts, and more. Start by adding a background color and a font. The margin: auto; rule centers everything on the page. More on this later!*/
+    text-align: center;
+    margin: auto; 
+    background-color: orange;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url('/img/orangesparkles.gif');
+
+}
+
+h1 {
+    /* This rule formats any element with a h1 tag. Start by changing the color and size of any h1 text.*/
+    font-size: 80px; 
+    color: orangered ; 
+}
+
+h2 {
+  /* This rule formats any element with a h1 tag. Start by changing the color and size of any h1 text.*/
+  font-size: 50px; 
+  color: orangered ; 
+}
+
+
+li {
+  font-size: 30px ; 
+  color: black;  
+  list-style-type: none;
+}
+
+a {
+  font-size: 30px;
+}
